@@ -1,4 +1,4 @@
-
+// I used my code cause you didn't put in a code in the first place
 import java.util.*;
 
 public class NewCode
