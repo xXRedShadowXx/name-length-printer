@@ -13,11 +13,11 @@ public class github
         
         Scanner input = new Scanner(System.in);
         
-        System.out.println("Whats your name: ");
+        System.out.println("Whats your pet's name: ");
         String name = input.nextLine();
         
         int length = name.length();
-        System.out.println("Hello, " + name + "you have" + length + "letters in your name.");
+        System.out.println("Hello, your pet's name is " + name + "your pet's name has" + length + "letters in your name.");
  
     }
 }
